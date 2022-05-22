@@ -10,5 +10,5 @@ BEWARE: The signatures and masks are "as-is". They are not 100% perfect and may 
 As well, the .dll can sometimes hang or become very slow. Simply re-run Valorant and re-inject. 
 
 As of now, it can properly dump the main, necessary offsets for Valorant as of 5/22/2022
-[https://vimeo.com/712401624]
+[https://streamable.com/ibb3w2]
 
